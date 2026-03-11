@@ -4,7 +4,9 @@ Welcome to **Sales System Python**! This is a modular project designed to manage
 
 ## 📋 Description
 This system allows users to register multiple sales while validating every data input to prevent common errors. At the end, it generates a detailed summary including the total per product and the grand total for the day.
-<img width="716" height="810" alt="di" src="https://github.com/user-attachments/assets/b022bb18-7ec7-483c-80c2-cff177642996" />
+
+
+<img width="716" height="810" alt="di" src="https://github.com/user-attachments/assets/173ad217-175e-48fe-91ae-00b0fda19b88" />
 
 
 ## 💎 Key Features
