@@ -1,4 +1,4 @@
-# 🛒 Sales System Python
+# 🛒 Sales System Python by: Joseph Romero
 
 Welcome to **Sales System Python**! This is a modular project designed to manage daily sales records efficiently, securely, and in an organized manner. 🚀
 
