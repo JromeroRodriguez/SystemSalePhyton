@@ -1,31 +1,33 @@
-# Sistema de Ventas en Python
-by coder: Joseph Romero
+# Sales System in Python
 
-## Descripción
-Este proyecto es un sistema básico de ventas desarrollado en Python.
-Permite registrar productos vendidos, calcular el total por venta
-y mostrar un resumen de todas las ventas realizadas.
+## Description
+This project is a basic sales system developed in Python.
+It allows you to record products sold, calculate the total per sale,
+and display a summary of all sales made.
 
-## Funcionalidades
+## Features
 
-- Registro de productos
-- Ingreso de precio
-- Ingreso de cantidad
-- Cálculo del total por venta
-- Cálculo del total general
+- Product registration
+- Price entry
+- Quantity entry
+- Calculation of total per sale
+- Calculation of grand total
 
-## Estructura del proyecto
+## Project Structure
 
-Venta_tiendas/
+Sales_System_Project
 │
-├── main.py
-├── ventas.py
-├── calculos.py
-├── reporte.py
-└── README.md
+├── Fun_calculations.py     # Functions for sales calculations
+├── Fun_display.py          # Functions to display information to the user
+├── Fun_inputs.py           # Functions to handle user input
+├── Fun_registration.py     # Functions to register sales
+├── Fun_validations.py      # Functions to validate user data
+│
+├── README.md               # Project documentation
+└── .gitignore              # Files and folders ignored by Git
 
-## Cómo ejecutar
+## How to Run
 
-Ejecutar el programa con:
+Run the program with:
 
 python main.py
