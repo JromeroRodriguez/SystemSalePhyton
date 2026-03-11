@@ -1,6 +1,6 @@
 # Sales System Python by: Joseph Romero
 
-Welcome to **Sales System Python**! This is a modular project designed to manage daily sales records efficiently, securely, and in an organized manner. 🚀
+Welcome to **Sales System Python**! This is a modular project designed to manage daily sales records efficiently, securely, and in an organized manner. 
 
 ##  Description
 This system allows users to register multiple sales while validating every data input to prevent common errors. At the end, it generates a detailed summary including the total per product and the grand total for the day.
