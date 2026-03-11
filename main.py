@@ -11,4 +11,4 @@ if __name__ == "__main__":
     # Show sales summary
     show_summary(sales, grand_total)
 
-print("Thank you for using the sales registration system!")
+print("Thank you for using the sales registration system")
