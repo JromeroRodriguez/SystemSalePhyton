@@ -1,33 +1,23 @@
-# Sales System in Python
+# 🛒 Sales System Python
 
-## Description
-This project is a basic sales system developed in Python.
-It allows you to record products sold, calculate the total per sale,
-and display a summary of all sales made.
+Welcome to **Sales System Python**! This is a modular project designed to manage daily sales records efficiently, securely, and in an organized manner. 🚀
 
-## Features
+## 📋 Description
+This system allows users to register multiple sales while validating every data input to prevent common errors. At the end, it generates a detailed summary including the total per product and the grand total for the day.
 
-- Product registration
-- Price entry
-- Quantity entry
-- Calculation of total per sale
-- Calculation of grand total
+## 💎 Key Features
+* **Robust Validation**: Filters empty inputs, negative numbers, and incorrect data types.
+* **Modular Architecture**: Code is split into specific functions to make maintenance easier.
+* **User-Friendly Interface**: Clear messages and an easy-to-read sales summary.
 
-## Project Structure
+## 📂 Project Structure
 
-Sales_System_Project
-│
-├── Fun_calculations.py     # Functions for sales calculations
-├── Fun_display.py          # Functions to display information to the user
-├── Fun_inputs.py           # Functions to handle user input
-├── Fun_registration.py     # Functions to register sales
-├── Fun_validations.py      # Functions to validate user data
-│
-├── README.md               # Project documentation
-└── .gitignore              # Files and folders ignored by Git
-
-## How to Run
-
-Run the program with:
-
-python main.py
+```text
+Sales_System_Project/
+├── ⚙️ Fun_validaciones.py  # Security filters for text and numbers
+├── 🧮 Fun_calculations.py  # Mathematical logic for totals
+├── 📥 Fun_inputs.py        # Captures raw user input
+├── 📝 Fun_registration.py  # Manages the sales loop and accumulation
+├── 📊 Fun_display.py       # Formats and displays results
+├── 🚀 main.py               # Application entry point
+└── 📖 README.md            # Project documentation
