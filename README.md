@@ -28,7 +28,7 @@ each one with a single responsibility.
 
 * Clone the repository from GitHub:
 ```bash
-git clone https://github.com/your-username/Sales_System_Project.git
+git clone https://github.com/JromeroRodriguez/SystemSalePhyton.git
 ```
 * Navigate to the project folder:
 ```bash
